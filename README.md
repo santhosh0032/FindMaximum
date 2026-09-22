@@ -13,8 +13,8 @@ To write a program to find the maximum of a list of numbers.
 i)	# To find the maximum of marks using the list method sort.
 ```
 MAXIMUM MARKS USING LIST METHOD SORT()
-DEVELOPED BY: BALA B
-REGISTER NUMBER: 212224100005
+DEVELOPED BY: K Santhosh
+REGISTER NUMBER: 212224050041
 
 def max_marks(marks):
     marks.sort()
